@@ -3,4 +3,9 @@
   <string name="generate">Generate</string>
   <string name="passphrase_length">Words in passphrase</string>
   <string name="default_length">6</string>
+  <string name="client_id">310588508846-25op9afjmded5du1a0k2hvn9fmb49j11.apps.googleusercontent.com</string>
+  <string name="login_error">That didn\'t work</string>
+  <string name="log_out">Log Out</string>
+  <string name="oauth2_header">Bearer %s</string>
+  <string name="base_url">https://alprael.com/rest/</string>
 </resources>
